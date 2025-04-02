@@ -1,3 +1,8 @@
+# https://leetcode.com/problems/remove-element/
+# Two pointer technique
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 class Solution:
     def removeElement(self, nums: list[int], val: int) -> int:
         i = 0
